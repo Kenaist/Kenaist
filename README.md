@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Kenaist/Kenaist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Kenai R. Caraballo
 
-Here are some ideas to get you started:
+De Puerto Rico
+Estudiante de Ciencias en Computadoras
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy aprendiendo HTML, CSS y JavaScript para desarrollar mis habilidades en programación web.
+
+---
+
+experiencia
+Participante en un taller de reparación de equipos electrónicos, donde he podido explorar y mejorar mis conocimientos en hardware y electrónica.
+
+---
+
+Sobre mí
+Me apasiona la tecnología y estoy siempre en busca de nuevos retos en la programación y la electrónica.
+
+---
+
+¡Gracias por visitar mi perfil! 
