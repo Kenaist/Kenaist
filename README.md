@@ -4,8 +4,6 @@
 De Puerto Rico
 Estudiante de Ciencias en Computadoras
 
-Actualmente estoy aprendiendo HTML, CSS y JavaScript para desarrollar mis habilidades en programación web.
-
 ---
 
 experiencia
